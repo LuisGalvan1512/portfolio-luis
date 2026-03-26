@@ -49,7 +49,7 @@ export default function Hero() {
         </div>
 
         <div style={{ display: 'flex', gap: 'clamp(24px, 5vw, 48px)', marginTop: '64px', paddingTop: '40px', borderTop: '1px solid var(--border)', flexWrap: 'wrap' }}>
-          {[['4°', 'Ciclo TECSUP'], ['4+', 'Proyectos'], ['15+', 'Tecnologías']].map(([n, l]) => (
+          {[['TECSUP'], ['4+', 'Proyectos'], ['15+', 'Tecnologías']].map(([n, l]) => (
             <div key={l}>
               <div style={{ fontFamily: 'var(--font-display)', fontSize: 'clamp(1.6rem, 4vw, 2.2rem)', color: 'var(--accent)' }}>{n}</div>
               <div style={{ fontSize: '10px', letterSpacing: '0.2em', color: 'var(--text-muted)', textTransform: 'uppercase', marginTop: '4px' }}>{l}</div>
