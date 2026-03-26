@@ -45,7 +45,7 @@ export default function About() {
                   Diseño y Desarrollo de Software
                 </div>
                 <span style={{ fontSize: '10px', padding: '4px 12px', background: 'var(--accent-dim)', color: 'var(--accent)', borderRadius: '100px', letterSpacing: '0.1em' }}>
-                  2024 — Presente · 4° Ciclo
+                  2024 — Presente · 5° Ciclo
                 </span>
               </div>
             </div>
